@@ -30,4 +30,4 @@ This project is a hardware-focused simulation of a smart traffic management syst
 ---
 
 ## 👨‍💻 Developer
-**Ghulam Rasool Shirzai** *IT & Computer Science Student* [Portfolio](https://ghulam-portfolio.web.app) | [LinkedIn](https://linkedin.com/in/ghulam-rasool-shirzai-13a6b4387)
+**Ghulam Rasool Shirzai** [Portfolio](https://ghulam-portfolio.web.app) | [LinkedIn](https://linkedin.com/in/ghulam-rasool-shirzai-13a6b4387)
